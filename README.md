@@ -1,6 +1,7 @@
-![](https://komarev.com/ghpvc/?username=mfclabber&color=36b812)<br>
+<!--![](https://komarev.com/ghpvc/?username=mfclabber&color=36b812)<br>
 ![](https://img.shields.io/github/followers/mfclabber?style=social)<br>
-![](https://img.shields.io/github/stars/mfclabber?style=social)<br>
+![](https://img.shields.io/github/stars/mfclabber?style=social)<br>-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfclabber&show_icons=true&theme=dark)
 
 <h1 align="left">Hello, I'm Dmitriy Novichkov!</h1>
 
