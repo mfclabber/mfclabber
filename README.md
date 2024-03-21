@@ -1,7 +1,9 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfclabber&show_icons=true&theme=dark)
+
 <!--![](https://komarev.com/ghpvc/?username=mfclabber&color=36b812)<br>
 ![](https://img.shields.io/github/followers/mfclabber?style=social)<br>
 ![](https://img.shields.io/github/stars/mfclabber?style=social)<br>-->
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfclabber&layout=compact&langs_count=8&theme=dark" height="150px" /> <img src="https://github-readme-stats.vercel.app/api?username=mfclabber&count_private=true&theme=dark" height="150px" /></a>
+<!--<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfclabber&layout=compact&langs_count=8&theme=dark" height="150px" /> <img src="https://github-readme-stats.vercel.app/api?username=mfclabber&count_private=true&theme=dark" height="150px" /></a>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfclabber&show_icons=true&theme=dark)
 
